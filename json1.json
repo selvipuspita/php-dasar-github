@@ -1,0 +1,32 @@
+[
+    {
+        "dosen":"Danny Indra Gunawan",
+        "nim":"1",
+        "nama":"Aceng David",
+        "umur":"17",
+        "email":"cenggdavid"
+    },
+    {
+        "dosen":"Danny Indra Gunawan",
+        "nim":"3",
+        "nama":"kim seoh-may",
+        "umur":"17",
+        "email":"mayy"
+    },
+
+    {
+        "dosen":"Danny Indra Gunawan",
+        "nim":"2",
+        "nama":"Siti Yamet",
+        "umur":"17",
+        "email":"yametii"
+    },
+
+    {
+        "dosen":"Danny Indra Gunawan",
+        "nim":"4",
+        "nama":"lara gon",
+        "umur":"17",
+        "email":"larragon"
+    }
+]
